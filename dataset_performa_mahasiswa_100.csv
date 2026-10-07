@@ -1,0 +1,101 @@
+NIM,Jurusan,Kategori_Kehadiran,Status_Lulus,Jam_Belajar_Minggu,Persentase_Kehadiran,Skor_Ujian_Tengah,IPK
+2024MAHA001,Data Science,Tinggi,Lulus,18,86.3,59.2,3.37
+2024MAHA002,Teknik Komputer,Sedang,Lulus,25,98.79,93.73,2.33
+2024MAHA003,Teknik Informatika,Sedang,Lulus,24,75.82,63.35,3.82
+2024MAHA004,Data Science,Sedang,Tidak Lulus,12,66.15,40.65,3.65
+2024MAHA005,Data Science,Sedang,Lulus,11,89.76,94.32,3.9
+2024MAHA006,Teknik Komputer,Sedang,Lulus,7,63.54,45.48,3.45
+2024MAHA007,Teknik Informatika,Sedang,Lulus,21,71.95,59.16,3.23
+2024MAHA008,Teknik Informatika,Tinggi,Tidak Lulus,37,53.92,97.0,2.84
+2024MAHA009,Data Science,Tinggi,Lulus,16,51.27,97.04,3.87
+2024MAHA010,Sistem Informasi,Sedang,Lulus,26,98.13,74.41,3.73
+2024MAHA011,Data Science,Tinggi,Lulus,26,91.8,77.91,2.09
+2024MAHA012,Data Science,Rendah,Lulus,34,84.8,66.91,2.05
+2024MAHA013,Data Science,Sedang,Lulus,42,70.45,57.59,2.75
+2024MAHA014,Data Science,Rendah,Lulus,42,58.66,59.72,3.62
+2024MAHA015,Teknik Komputer,Rendah,Lulus,12,57.82,80.35,3.97
+2024MAHA016,Teknik Informatika,Sedang,Lulus,31,62.51,85.14,2.3
+2024MAHA017,Teknik Komputer,Tinggi,Lulus,31,77.46,87.49,3.19
+2024MAHA018,Teknik Komputer,Rendah,Lulus,38,85.73,87.38,2.76
+2024MAHA019,Teknik Komputer,Sedang,Lulus,25,83.01,45.47,3.94
+2024MAHA020,Data Science,Rendah,Lulus,34,64.0,69.67,3.68
+2024MAHA021,Sistem Informasi,Rendah,Lulus,37,97.74,43.45,3.68
+2024MAHA022,Teknik Informatika,Rendah,Lulus,32,86.89,72.97,2.94
+2024MAHA023,Sistem Informasi,Rendah,Lulus,37,77.72,66.49,2.83
+2024MAHA024,Teknik Komputer,Tinggi,Lulus,9,80.59,93.26,2.55
+2024MAHA025,Teknik Komputer,Rendah,Lulus,23,70.98,61.05,2.11
+2024MAHA026,Sistem Informasi,Rendah,Lulus,8,62.39,47.02,3.73
+2024MAHA027,Sistem Informasi,Rendah,Lulus,39,67.8,48.58,3.63
+2024MAHA028,Sistem Informasi,Tinggi,Lulus,21,87.89,85.69,4.0
+2024MAHA029,Teknik Komputer,Rendah,Lulus,32,50.72,77.09,3.99
+2024MAHA030,Teknik Komputer,Rendah,Tidak Lulus,34,55.8,46.07,3.11
+2024MAHA031,Teknik Informatika,Tinggi,Lulus,33,52.3,45.05,3.54
+2024MAHA032,Teknik Informatika,Tinggi,Tidak Lulus,10,52.04,82.06,3.89
+2024MAHA033,Teknik Komputer,Tinggi,Lulus,39,92.77,44.37,3.7
+2024MAHA034,Sistem Informasi,Rendah,Lulus,41,85.18,89.31,2.49
+2024MAHA035,Sistem Informasi,Tinggi,Lulus,28,73.71,82.37,2.9
+2024MAHA036,Teknik Informatika,Tinggi,Lulus,33,54.89,44.88,2.26
+2024MAHA037,Teknik Komputer,Rendah,Lulus,35,74.58,45.09,3.91
+2024MAHA038,Teknik Informatika,Tinggi,Lulus,39,73.67,99.2,3.21
+2024MAHA039,Teknik Informatika,Rendah,Lulus,37,58.66,62.46,2.46
+2024MAHA040,Data Science,Sedang,Lulus,25,71.69,62.24,3.34
+2024MAHA041,Data Science,Tinggi,Lulus,36,69.93,88.77,3.24
+2024MAHA042,Data Science,Sedang,Lulus,27,80.79,96.83,2.72
+2024MAHA043,Sistem Informasi,Rendah,Lulus,37,81.75,99.16,2.23
+2024MAHA044,Teknik Komputer,Tinggi,Lulus,7,52.27,85.2,3.34
+2024MAHA045,Teknik Komputer,Rendah,Tidak Lulus,22,68.73,62.58,3.04
+2024MAHA046,Teknik Komputer,Sedang,Lulus,29,81.29,45.01,3.54
+2024MAHA047,Teknik Komputer,Rendah,Tidak Lulus,35,75.16,86.63,3.04
+2024MAHA048,Data Science,Tinggi,Lulus,7,92.82,73.5,3.7
+2024MAHA049,Sistem Informasi,Tinggi,Tidak Lulus,44,82.93,65.45,3.1
+2024MAHA050,Sistem Informasi,Sedang,Tidak Lulus,28,58.15,94.38,3.12
+2024MAHA051,Data Science,Rendah,Lulus,36,53.53,46.67,3.75
+2024MAHA052,Sistem Informasi,Tinggi,Lulus,26,82.12,69.56,2.81
+2024MAHA053,Data Science,Sedang,Lulus,27,51.33,40.68,2.27
+2024MAHA054,Teknik Komputer,Tinggi,Tidak Lulus,6,79.29,68.12,2.06
+2024MAHA055,Data Science,Tinggi,Lulus,31,97.01,43.38,3.51
+2024MAHA056,Teknik Komputer,Rendah,Lulus,6,78.77,47.13,3.24
+2024MAHA057,Teknik Komputer,Tinggi,Lulus,30,69.41,47.05,3.41
+2024MAHA058,Teknik Informatika,Rendah,Tidak Lulus,21,82.16,78.95,2.43
+2024MAHA059,Data Science,Tinggi,Lulus,44,72.91,84.76,2.27
+2024MAHA060,Teknik Informatika,Sedang,Lulus,37,77.28,75.0,2.03
+2024MAHA061,Data Science,Tinggi,Tidak Lulus,13,97.07,97.73,2.7
+2024MAHA062,Data Science,Rendah,Lulus,43,69.31,62.49,3.18
+2024MAHA063,Teknik Informatika,Rendah,Lulus,33,98.06,57.14,2.78
+2024MAHA064,Teknik Informatika,Sedang,Tidak Lulus,30,95.27,92.12,2.87
+2024MAHA065,Data Science,Tinggi,Lulus,39,59.79,53.42,3.81
+2024MAHA066,Sistem Informasi,Tinggi,Lulus,29,53.47,97.79,2.7
+2024MAHA067,Teknik Komputer,Sedang,Lulus,28,55.04,40.73,3.03
+2024MAHA068,Teknik Informatika,Tinggi,Lulus,17,50.91,98.19,3.57
+2024MAHA069,Teknik Komputer,Tinggi,Lulus,11,54.72,42.59,2.79
+2024MAHA070,Sistem Informasi,Rendah,Lulus,40,84.15,93.47,3.24
+2024MAHA071,Sistem Informasi,Tinggi,Lulus,24,53.56,71.66,3.72
+2024MAHA072,Sistem Informasi,Tinggi,Tidak Lulus,5,65.95,99.58,3.9
+2024MAHA073,Teknik Informatika,Sedang,Lulus,12,92.24,44.43,2.29
+2024MAHA074,Sistem Informasi,Sedang,Lulus,20,51.16,73.23,3.85
+2024MAHA075,Teknik Informatika,Rendah,Tidak Lulus,18,90.72,98.16,2.98
+2024MAHA076,Sistem Informasi,Tinggi,Tidak Lulus,16,64.09,71.39,2.52
+2024MAHA077,Teknik Komputer,Tinggi,Lulus,27,55.91,77.76,2.92
+2024MAHA078,Teknik Komputer,Tinggi,Tidak Lulus,19,84.84,81.74,3.96
+2024MAHA079,Data Science,Rendah,Lulus,32,81.45,67.27,2.99
+2024MAHA080,Teknik Komputer,Rendah,Lulus,38,93.87,77.65,2.66
+2024MAHA081,Data Science,Sedang,Lulus,6,86.75,75.06,3.27
+2024MAHA082,Teknik Komputer,Rendah,Tidak Lulus,36,90.17,94.07,2.48
+2024MAHA083,Teknik Informatika,Tinggi,Tidak Lulus,27,64.1,42.73,2.15
+2024MAHA084,Teknik Komputer,Tinggi,Lulus,26,58.87,56.86,2.26
+2024MAHA085,Data Science,Rendah,Tidak Lulus,29,87.53,97.02,2.26
+2024MAHA086,Data Science,Tinggi,Tidak Lulus,26,90.34,93.42,2.3
+2024MAHA087,Sistem Informasi,Tinggi,Tidak Lulus,26,99.53,67.34,2.28
+2024MAHA088,Teknik Informatika,Rendah,Tidak Lulus,10,70.63,77.21,3.28
+2024MAHA089,Teknik Komputer,Rendah,Lulus,19,68.6,56.64,2.36
+2024MAHA090,Sistem Informasi,Tinggi,Lulus,41,88.82,51.29,2.69
+2024MAHA091,Teknik Komputer,Tinggi,Lulus,37,67.04,67.82,3.79
+2024MAHA092,Teknik Komputer,Tinggi,Tidak Lulus,12,96.54,61.2,2.95
+2024MAHA093,Sistem Informasi,Sedang,Tidak Lulus,9,92.92,75.02,3.34
+2024MAHA094,Sistem Informasi,Sedang,Lulus,43,71.45,44.66,2.34
+2024MAHA095,Sistem Informasi,Sedang,Lulus,8,87.54,98.46,2.38
+2024MAHA096,Sistem Informasi,Rendah,Lulus,10,87.73,99.17,2.08
+2024MAHA097,Sistem Informasi,Sedang,Lulus,36,55.16,81.89,2.34
+2024MAHA098,Teknik Komputer,Rendah,Tidak Lulus,34,95.13,72.17,2.56
+2024MAHA099,Sistem Informasi,Rendah,Lulus,39,75.26,58.57,2.35
+2024MAHA100,Teknik Informatika,Sedang,Lulus,44,91.32,88.83,2.18

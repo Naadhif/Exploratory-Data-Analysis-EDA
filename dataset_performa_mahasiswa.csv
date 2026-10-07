@@ -1,0 +1,121 @@
+ID_Mahasiswa,Jurusan,Status_Beasiswa,Tingkat_Kehadiran,Jumlah_SKS,Jam_Belajar_Mingguan,IPK,Nilai_Ujian_Akhir
+MHS001,Informatika,Tidak,Tinggi,20,15,3.43,86.5
+MHS002,Teknik Komputer,Tidak,Tinggi,22,13,3.42,89.2
+MHS003,Sistem Informasi,Ya,Tinggi,22,5,2.72,76.5
+MHS004,Sistem Informasi,Ya,Sedang,22,13,3.3,86.7
+MHS005,Informatika,Ya,Rendah,24,11,2.88,66.0
+MHS006,Informatika,Tidak,Tinggi,20,14,3.44,80.6
+MHS007,Informatika,Tidak,Sedang,24,15,3.87,92.6
+MHS008,Teknik Komputer,Tidak,Tinggi,24,16,3.82,94.1
+MHS009,Sistem Informasi,Ya,Tinggi,20,12,3.56,90.4
+MHS010,Sistem Informasi,Tidak,Tinggi,18,16,3.35,80.8
+MHS011,Informatika,Tidak,Sedang,20,22,3.71,92.4
+MHS012,Teknik Komputer,Ya,Sedang,18,15,3.37,81.1
+MHS013,Teknik Komputer,Ya,Tinggi,18,5,2.61,65.0
+MHS014,Informatika,Ya,Sedang,22,13,3.51,81.6
+MHS015,Informatika,Tidak,Rendah,18,15,2.98,71.9
+MHS016,Informatika,Ya,Tinggi,20,18,4.0,92.6
+MHS017,Informatika,Tidak,Tinggi,24,13,3.2,76.5
+MHS018,Sistem Informasi,Tidak,Tinggi,18,18,3.53,91.9
+MHS019,Informatika,Tidak,Tinggi,24,13,2.99,72.0
+MHS020,Informatika,Tidak,Rendah,20,11,2.67,79.3
+MHS021,Sistem Informasi,Tidak,Tinggi,20,15,3.61,91.4
+MHS022,Informatika,Ya,Tinggi,22,9,2.94,75.4
+MHS023,Informatika,Tidak,Rendah,22,14,3.0,72.6
+MHS024,Informatika,Ya,Tinggi,24,14,3.0,78.8
+MHS025,Informatika,Ya,Tinggi,22,15,3.32,80.7
+MHS026,Sistem Informasi,Ya,Tinggi,24,19,4.0,98.5
+MHS027,Informatika,Tidak,Tinggi,20,9,2.86,83.2
+MHS028,Sistem Informasi,Tidak,Tinggi,20,17,3.18,79.6
+MHS029,Sistem Informasi,Ya,Sedang,22,16,3.42,89.8
+MHS030,Informatika,Ya,Sedang,24,9,2.85,69.9
+MHS031,Sistem Informasi,Tidak,Tinggi,24,12,2.49,64.6
+MHS032,Informatika,Ya,Tinggi,22,13,3.23,88.1
+MHS033,Informatika,Ya,Tinggi,20,20,3.74,89.8
+MHS034,Teknik Komputer,Tidak,Tinggi,22,14,3.49,94.0
+MHS035,Teknik Komputer,Tidak,Tinggi,20,13,3.7,94.2
+MHS036,Teknik Komputer,Ya,Tinggi,24,14,3.6,87.0
+MHS037,Informatika,Tidak,Tinggi,24,14,3.25,84.0
+MHS038,Informatika,Tidak,Tinggi,22,15,3.12,82.5
+MHS039,Sistem Informasi,Ya,Tinggi,22,7,3.4,87.3
+MHS040,Informatika,Tidak,Tinggi,22,9,2.93,68.2
+MHS041,Informatika,Tidak,Tinggi,20,9,2.92,71.3
+MHS042,Informatika,Tidak,Sedang,24,10,2.99,74.8
+MHS043,Informatika,Tidak,Sedang,22,20,3.85,94.4
+MHS044,Teknik Komputer,Tidak,Rendah,24,16,3.44,88.2
+MHS045,Informatika,Ya,Tinggi,20,10,2.86,73.6
+MHS046,Sistem Informasi,Tidak,Rendah,24,10,2.86,67.6
+MHS047,Informatika,Ya,Sedang,20,10,2.99,77.3
+MHS048,Sistem Informasi,Ya,Tinggi,18,9,2.78,73.6
+MHS049,Sistem Informasi,Ya,Sedang,24,10,2.82,74.3
+MHS050,Informatika,Tidak,Tinggi,18,14,3.35,88.0
+MHS051,Teknik Komputer,Tidak,Rendah,20,15,3.34,86.8
+MHS052,Sistem Informasi,Ya,Rendah,24,7,3.14,80.9
+MHS053,Teknik Komputer,Tidak,Tinggi,24,10,2.34,61.2
+MHS054,Teknik Komputer,Ya,Sedang,22,12,3.43,78.8
+MHS055,Sistem Informasi,Tidak,Rendah,22,15,3.71,93.3
+MHS056,Teknik Komputer,Ya,Tinggi,22,14,2.8,72.4
+MHS057,Informatika,Tidak,Tinggi,20,14,3.23,82.1
+MHS058,Informatika,Tidak,Sedang,20,8,2.75,65.4
+MHS059,Informatika,Tidak,Tinggi,22,14,2.97,71.0
+MHS060,Informatika,Ya,Rendah,22,11,2.89,77.8
+MHS061,Informatika,Ya,Rendah,22,10,2.72,69.7
+MHS062,Informatika,Ya,Tinggi,22,9,3.36,86.6
+MHS063,Teknik Komputer,Tidak,Tinggi,18,15,3.63,90.0
+MHS064,Informatika,Tidak,Tinggi,22,17,3.88,95.5
+MHS065,Informatika,Ya,Tinggi,18,8,3.02,80.2
+MHS066,Sistem Informasi,Tidak,Tinggi,22,15,3.12,76.6
+MHS067,Informatika,Tidak,Tinggi,22,13,3.11,78.8
+MHS068,Teknik Komputer,Tidak,Sedang,24,11,3.2,78.6
+MHS069,Informatika,Tidak,Tinggi,20,16,3.17,78.0
+MHS070,Teknik Komputer,Ya,Sedang,20,15,3.58,87.5
+MHS071,Sistem Informasi,Ya,Sedang,20,8,2.78,72.0
+MHS072,Informatika,Tidak,Rendah,22,11,2.99,73.9
+MHS073,Informatika,Tidak,Rendah,22,10,3.18,85.0
+MHS074,Teknik Komputer,Tidak,Tinggi,20,7,2.87,69.6
+MHS075,Sistem Informasi,Ya,Tinggi,18,9,2.83,71.5
+MHS076,Sistem Informasi,Ya,Tinggi,22,18,3.93,94.7
+MHS077,Sistem Informasi,Tidak,Sedang,18,10,2.73,75.8
+MHS078,Informatika,Tidak,Rendah,24,21,4.0,98.8
+MHS079,Informatika,Tidak,Rendah,22,15,3.55,92.2
+MHS080,Informatika,Tidak,Sedang,18,17,3.48,80.6
+MHS081,Teknik Komputer,Tidak,Tinggi,18,12,3.24,82.3
+MHS082,Sistem Informasi,Ya,Tinggi,24,14,3.01,79.8
+MHS083,Informatika,Ya,Tinggi,20,9,3.15,79.6
+MHS084,Informatika,Tidak,Sedang,20,11,3.03,80.9
+MHS085,Informatika,Tidak,Tinggi,24,9,2.79,69.3
+MHS086,Informatika,Ya,Tinggi,24,14,3.58,94.4
+MHS087,Sistem Informasi,Ya,Tinggi,24,12,2.98,84.8
+MHS088,Sistem Informasi,Tidak,Tinggi,22,12,2.81,70.4
+MHS089,Teknik Komputer,Ya,Sedang,20,11,2.69,67.4
+MHS090,Informatika,Ya,Sedang,18,17,3.71,97.4
+MHS091,Informatika,Tidak,Sedang,22,14,3.0,82.3
+MHS092,Sistem Informasi,Tidak,Tinggi,22,9,3.36,81.8
+MHS093,Sistem Informasi,Tidak,Rendah,22,21,3.36,82.2
+MHS094,Sistem Informasi,Ya,Rendah,24,7,3.18,78.8
+MHS095,Sistem Informasi,Tidak,Rendah,20,15,3.45,80.5
+MHS096,Informatika,Ya,Rendah,22,10,2.98,71.9
+MHS097,Sistem Informasi,Ya,Tinggi,18,10,2.86,68.9
+MHS098,Informatika,Tidak,Tinggi,22,16,3.58,85.7
+MHS099,Informatika,Tidak,Sedang,18,12,3.15,79.2
+MHS100,Informatika,Tidak,Rendah,20,13,3.52,88.4
+MHS101,Informatika,Tidak,Sedang,20,13,3.27,88.1
+MHS102,Sistem Informasi,Tidak,Sedang,22,14,3.36,79.9
+MHS103,Informatika,Ya,Rendah,22,17,3.47,90.3
+MHS104,Sistem Informasi,Tidak,Sedang,22,11,3.07,76.7
+MHS105,Teknik Komputer,Ya,Sedang,24,13,3.32,82.8
+MHS106,Informatika,Ya,Tinggi,20,20,3.37,86.8
+MHS107,Informatika,Tidak,Tinggi,20,15,3.06,72.8
+MHS108,Sistem Informasi,Tidak,Rendah,24,15,3.59,90.5
+MHS109,Informatika,Tidak,Sedang,20,9,2.96,75.8
+MHS110,Informatika,Tidak,Tinggi,24,11,3.03,78.6
+MHS111,Informatika,Tidak,Tinggi,18,12,3.16,80.7
+MHS112,Informatika,Tidak,Tinggi,24,9,3.01,86.0
+MHS113,Teknik Komputer,Tidak,Tinggi,18,18,3.51,84.7
+MHS114,Teknik Komputer,Tidak,Rendah,24,11,2.89,71.5
+MHS115,Sistem Informasi,Ya,Rendah,22,17,3.61,86.9
+MHS116,Teknik Komputer,Tidak,Tinggi,24,16,3.24,79.1
+MHS117,Teknik Komputer,Ya,Rendah,18,11,3.18,77.4
+MHS118,Informatika,Ya,Tinggi,22,15,2.97,80.1
+MHS119,Teknik Komputer,Tidak,Tinggi,24,9,3.18,85.6
+MHS120,Sistem Informasi,Ya,Tinggi,22,14,3.44,83.4
